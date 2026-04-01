@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "AI Content Writer",
+    "description": "Generate high-quality blog posts and social media content in seconds using advanced AI.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Unlimited AI Words", "SEO Optimization", "Plagiarism Checker"],
+    "icon": "https://i.ibb.co/S7DgRcXC/1055661.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Studio Pro",
+    "description": "A complete suite for professional designers with thousands of ready-to-use templates.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["5000+ Templates", "Vector Export", "Cloud Storage"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3222/3222672.png"
+  },
+  {
+    "id": 3,
+    "name": "Task Automator",
+    "description": "Connect your favorite apps and automate repetitive tasks without any coding.",
+    "price": 50,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["10 Active Zaps", "Instant Triggers", "Priority Support"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1904/1904235.png"
+  },
+  {
+    "id": 4,
+    "name": "SEO Analyzer",
+    "description": "Get deep insights into your website ranking and beat your competitors easily.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Trending",
+    "tagType": "popular",
+    "features": ["Keyword Tracking", "Backlink Audit", "Site Health Check"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2920/2920323.png"
+  },
+  {
+    "id": 5,
+    "name": "Video Editor Cloud",
+    "description": "Edit professional videos directly in your browser with simple drag and drop.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["4K Export", "Stock Footage Library", "AI Subtitles"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/4406/4406124.png"
+  },
+  {
+    "id": 6,
+    "name": "Code Assistant AI",
+    "description": "Supercharge your coding speed with real-time AI suggestions and bug detection.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["VS Code Extension", "Unit Test Gen", "Multi-language Support"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
+  },
+  {
+    "id": 7,
+    "name": "Resume Builder Plus",
+    "description": "Create ATS-friendly resumes that help you land your dream job faster.",
+    "price": 10,
+    "period": "one-time",
+    "tag": "Sale",
+    "tagType": "popular",
+    "features": ["100+ Templates", "ATS Optimization", "Export to PDF"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2942/2942789.png"
+  },
+  {
+    "id": 8,
+    "name": "Social Manager",
+    "description": "Schedule your posts across all social media platforms from a single dashboard.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "Featured",
+    "tagType": "best-seller",
+    "features": ["Analytics Dashboard", "Team Collaboration", "Post Scheduling"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1968/1968666.png"
+  },
+  {
+    "id": 9,
+    "name": "Email Marketing Kit",
+    "description": "Send beautiful newsletters and automate your email marketing campaigns.",
+    "price": 199,
+    "period": "yearly",
+    "tag": "Limited",
+    "tagType": "new",
+    "features": ["Drag-drop Builder", "A/B Testing", "List Segmentation"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2082/2082812.png"
+  }
+]
