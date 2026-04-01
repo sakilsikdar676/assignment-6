@@ -55,7 +55,7 @@ function App() {
   const handleRemoveAllCart = () => {
     setVisitCount([]);
 
-      toast.error(" All Item removed from cart", {
+      toast.success(" successfully Proceed your products", {
     position: "top-right",
     autoClose: 2000,
   });
@@ -144,4 +144,4 @@ export default App
 
 
 
-git init
+
